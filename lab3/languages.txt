@@ -1,0 +1,198 @@
+Afghanistan,Dari Persian,Pashtu,other Turkic and minor languages
+Albania,Albanian,Greek
+Algeria,Arabic,French,Berber dialects
+Andorra,Catalan,French,Castilian,Portuguese
+Angola,Portuguese,Bantu,other African languages
+Antigua and Barbuda,English,local dialects
+Argentina,Spanish,English,Italian,German,French
+Armenia,Armenian,Yezidi,Russian
+Australia,English,native and other languages
+Austria,German,Slovene,Croatian,Hungarian 
+Azerbaijan,Azerbaijani Turkic,Russian,Armenian,other  
+Bahamas,English,Creole 
+Bahrain,Arabic,English,Farsi,Urdu
+Bangladesh,Bangla,English
+Barbados,English
+Belarus,Belorussian,Russian,other
+Belgium,Dutch,French,German less than  
+Belize,English,Spanish,Mayan,Garifuna,Creole
+Benin,French,Fon,Yoruba,tribal languages
+Bhutan,Dzongkha,Tibetan dialects,Nepalese dialects 
+Bolivia,Spanish,Quechua,Aymara 
+Bosnia and Herzegovina,Bosnian,Croatian,Serbian
+Botswana,English,Setswana,Kalanga,Sekgalagadi,other 
+Brazil,Portuguese,Spanish,English,French
+Brunei,Malay,English,Chinese
+Bulgaria,Bulgarian,Turkish,Roma 
+Burkina Faso,French 
+Burundi,Kirundi,French,Swahili
+Cambodia,Khmer,French,English
+Cameroon,French,English,24 major African language groups
+Canada,English,French,other 
+Cape Verde,Portuguese,Criuolo
+Central African Republic,French,Sangho,tribal languages
+Chad,French,Arabic,Sara,more than 120 languages and dialects
+Chile,Spanish
+China,Standard Chinese,Yue,Wu,Minbei,Minnan,Xiang,Gan,Hakka dialects,minority languages
+Colombia,Spanish
+Comoros,Arabic,French,Shikomoro 
+Congo - Democratic Republic of the,French,Lingala,Kingwana,Kikongo,Tshiluba
+Congo - Republic of,French,Lingala,Monokutuba,Kikongo,many local languages and dialects
+Costa Rica,Spanish,English
+Cote d'Ivoire,French,African languages 
+Croatia,Croatian,other  
+Cuba,Spanish
+Cyprus,Greek,Turkish,English
+Czech Republic,Czech
+Denmark,Danish,Faroese,Greenlandic,German,English is the predominant second language
+Djibouti,French,Arabic,Somali,Afar
+Dominica,English,French patois
+Dominican Republic,Spanish
+East Timor,Tetum,Portuguese,Bahasa Indonesia,English,other indigenous languages
+Ecuador,Spanish,Quechua,other Amerindian languages
+Egypt,Arabic,English,French
+El Salvador,Spanish,Nahua 
+Equatorial Guinea,Spanish,French,pidgin English,Fang,Bubi,Igbo
+Eritrea,Afar,Arabic,Tigre,Kunama,Tigrinya,other Cushitic languages
+Estonia,Estonian,Russian,other 
+Ethiopia,Amharic,Tigrigna,Orominga,Guaragigna,Somali,Arabic,English,over 70 others
+Fiji,English,Fijian,Hindustani
+Finland,Finnish,Swedish,small Sami-Lapp,Russian
+France,French,rapidly declining regional dialects 
+Gabon,French,Fang,Myene,Nzebi,Bapounou/Eschira,Bandjabi
+Gambia,English,Mandinka,Wolof,Fula,other indigenous
+Georgia,Georgian,Russian,Armenian,Azerbaijani,other  
+Germany,German
+Ghana,English,African languages 
+Greece,Greek,English,French
+Grenada,English,French patois
+Guatemala,Spanish,Amerindian languages  
+Guinea,French,native tongues 
+Guinea-Bissau,Portuguese,Criolo,African languages
+Guyana,English,Amerindian dialects,Creole,Hindi,Urdu
+Haiti,Creole,French 
+Honduras,Spanish,Amerindian dialects,English widely spoken in business
+Hungary,Magyar,other 
+Iceland,Icelandic,English,Nordic languages,German widely spoken
+India,Hindi,English,Bengali,Gujarati,Kashmiri,Malayalam,Marathi,Oriya,Punjabi,Tamil,Telugu,Urdu,Kannada,Assamese,Sanskrit,Sindhi,Hindi/Urdu,1600+ dialects
+Indonesia,Bahasa Indonesia,English,Dutch,Javanese,and more than 580 other languages and dialects
+Iran,Persian,Persian dialects,Turkic,Turkic dialects,Kurdish,Luri,Balochi,Arabic,Turkish,other 
+Iraq,Arabic,Kurdish,Assyrian,Armenian
+Ireland,English,Irish  
+Israel,Hebrew,Arabic,English
+Italy,Italian,German,French,Slovene
+Jamaica,English,Jamaican Creole
+Japan,Japanese
+Jordan,Arabic,English
+Kazakhstan,Kazak,Russian   
+Kenya,English,Swahili,and numerous indigenous languages
+Kiribati,English,I-Kiribati 
+Korea - North,Korean
+Korea - South,Korean,English widely taught
+Kosovo,Albanian,Serbian,Bosnian,Turkish,Roma
+Kuwait,Arabic,English
+Kyrgyzstan,Kyrgyz,Russian 
+Laos,Lao,French,English,various ethnic languages
+Latvia,Latvian,Russian,Lithuanian,other 
+Lebanon,Arabic,French,English,Armenian
+Lesotho,English,Sesotho,Zulu,Xhosa
+Liberia,English,some 20 ethnic-group languages
+Libya,Arabic,Italian,English
+Liechtenstein,German,Alemannic dialect
+Lithuania,Lithuanian,Russian,Polish  
+Luxembourg,Luxermbourgish,French,German 
+Macedonia,Macedonian,Albanian,Turkish,Roma,Serbian  
+Madagascar,Malagasy,French 
+Malawi,Chichewa,Chinyanja,Chiyao,Chitumbuka,Chisena,Chilomwe,Chitonga,other  
+Malaysia,Bahasa Melayu,English,Chinese dialects,Tamil,Telugu,Malayalam,Panjabi,Thai,several indigenous languages
+Maldives,Maldivian Dhivehi,English
+Mali,French,Bambara,numerous African languages
+Malta,Maltese,English 
+Marshall Islands,Marshallese,English widely spoken as a second language,Japanese
+Mauritania,Hassaniya Arabic,Pulaar,Soninke,French,Wolof
+Mauritius,English less than,Creole,Bojpoori,French  
+Mexico,Spanish,various Mayan,Nahuatl,and other regional indigenous languages
+Micronesia,English,Chukese,Pohnpeian,Yapase,Kosrean,Ulithian,Woleaian,Nukuoro,Kapingamarangi
+Moldova,Moldovan,Russian,Gagauz 
+Monaco,French,English,Italian,Monegasque
+Mongolia,Mongolian,Turkic,Russian 
+Montenegro,Serbian/Montenegrin 
+Morocco,Arabic,Berber dialects,French
+Mozambique,Portuguese,Emakhuwa,Xichangana,Elomwe,Cisena,Echuwabo,other Mozambican languages  
+Myanmar,Burmese,minority languages
+Namibia,English,Afrikaans,German,indigenous languages
+Nauru,Nauruan,English
+Nepal,Nepali,Maithali,Bhojpuri,Tharu,Tamang,others 
+Netherlands,Dutch,Frisian 
+New Zealand,English,Maori 
+Nicaragua,Spanish  
+Niger,French,Hausa,Djerma
+Nigeria,English,Hausa,Yoruba,Igbo,Fulani,and more than 200 others
+Norway,Bokmal Norwegian,Nynorsk Norwegian,small Sami,Finnish
+Oman,Arabic,English,Baluchi,Urdu,Indian dialects
+Pakistan,Urdu,English,Punjabi,Sindhi,Siraiki,Pashtu,Balochi,Hindko,Brahui,Burushaski,and others 
+Palau,Palauan,English,Sonsoralese,Tobi,Angaur,Filipino,Chinese,Carolinian,Japanese,other Asian,other languages  
+Palestinian State (proposed),Arabic,Hebrew,English
+Panama,Spanish,English,many bilingual
+Papua New Guinea,Tok Pisin,Hiri Motu,English,715 indigenous languages
+Paraguay,Spanish,Guarani 
+Peru,Spanish,Quechua,Aymara,many minor Amazonian languages
+Philippines,Filipino,English,Tagalog,Cebuano,Ilocano,Hiligaynon or Ilonggo,Bicol,Waray,Pampango,Pangasinense
+Poland,Polish  
+Portugal,Portuguese,Mirandese 
+Qatar,Arabic 
+Romania,Romanian,Hungarian,German
+Russia,Russian,others
+Rwanda,Kinyarwanda,French,English,Kiswahili in commercial centers
+St. Kitts and Nevis,English
+St. Lucia,English,French patois
+St. Vincent and the Grenadines,English,French patois
+Samoa,Samoan,English
+San Marino,Italian
+Sao Tome and Principe,Portuguese 
+Saudi Arabia,Arabic
+Senegal,French,Wolof,Pulaar,Jola,Mandinka
+Serbia,Serbian,Romanian,Hungarian,Slovak,and Croatian,Albanian 
+Seychelles,Seselwa Creole,English,French  
+Sierra Leone,English,Mende,Temne,Krio 
+Singapore,Mandarin,English,Malay,Hokkien,Cantonese,Teochew,Tamil,other Chinese dialects,other  
+Slovakia,Slovak,Hungarian,Roma,Ukrainian  
+Slovenia,Slovenian,Serbo-Croatian  
+Solomon Islands,English,Melanesian pidgin,120 indigenous languages
+Somalia,Somali,Arabic,English,Italian
+South Africa,IsiZulu,IsiXhosa,Afrikaans,Sepedi,English,Setswana,Sesotho,Xitsonga,other 
+South Sudan,English,Arabic,regional languages include Dinka,Nuer,Bari,Zande,Shilluk
+Spain,Castilian Spanish,Catalan,Galician,Basque  
+Sri Lanka,Sinhala,Tamil,English,other 
+Sudan,Arabic,Nubian,Ta Bedawie,diverse dialects of Nilotic,Nilo-Hamitic,Sudanic languages,English
+Suriname,Dutch,Surinamese,English widely spoken,Hindustani,Javanese
+Swaziland,English,siSwati 
+Sweden,Swedish,small Sami,Finnish
+Switzerland,German,French,Italian,Romansch  
+Syria,Arabic,Kurdish,Armenian,Aramaic,Circassian widely understood,French,English somewhat understood
+Taiwan,Chinese,Taiwanese,Hakka dialects
+Tajikistan,Tajik,Russian
+Tanzania,Swahili,English,Arabic,many local languages
+Thailand,Thai,English,ethnic and regional dialects
+Togo,French,Ewe,Mina,Kabye,Dagomba,and many dialects
+Tonga,Tongan,English
+Trinidad and Tobago,English,Hindi,French,Spanish,Chinese
+Tunisia,Arabic,French 
+Turkey,Turkish,Kurdish,Dimli,Azeri,Kabardian
+Turkmenistan,Turkmen,Russian,Uzbek,other 
+Tuvalu,Tuvaluan,English,Samoan,Kiribati 
+Uganda,English,Ganda or Luganda,other Niger-Congo languages,Nilo-Saharan languages,Swahili,Arabic
+Ukraine,Ukrainian,Russian,Romanian,Polish,Hungarian
+United Arab Emirates,Arabic,Persian,English,Hindi,Urdu
+United Kingdom,English,Welsh,Scots Gaelic
+United States,English,Spanish  
+Uruguay,Spanish,Portunol,or Brazilero
+Uzbekistan,Uzbek,Russian,Tajik,other 
+Vanuatu,Bislama,English,French,more than 100 local languages 
+Vatican City (Holy See),Italian,Latin,French,various other languages
+Venezuela,Spanish,numerous indigenous dialects
+Vietnam,Vietnamese,English,some French,Chinese,Khmer,mountain area languages 
+Western Sahara (proposed state),Hassaniya Arabic,Moroccan Arabic
+Yemen,Arabic
+Zambia,English,Bemba,Kaonda,Lozi,Lunda,Luvale,Nyanja,Tonga,about 70 other indigenous languages
+Zimbabwe,English,Shona,Ndebele,numerous minor tribal dialects
